@@ -1,0 +1,66 @@
+
+BUSINESS INSIGHTS REPORT
+E-commerce Profitability Analysis
+Period: 2015-2018
+
+INSIGHT 1 — HEADLINE PERFORMANCE
+The business generated $2.30M in revenue across 2015-2018,
+yielding $286,397 in total profit at an overall margin of
+just 12.5%. While revenue is growing year-on-year, the thin
+margin signals that discounting behaviour and cost structure
+are significantly eroding value creation.
+
+INSIGHT 2 — THE FURNITURE PROBLEM
+Furniture is the most capital-intensive category, generating
+$742,000 in revenue — yet delivering only $18,451 in profit,
+a margin of just 2.5%. By contrast, Technology achieves a
+17.4% margin and Office Supplies 17.0%. Furniture is
+consuming disproportionate resources — storage, shipping,
+handling — while contributing almost nothing to the bottom
+line. This is a critical strategic misallocation.
+
+INSIGHT 3 — TABLES AND BOOKCASES ARE DESTROYING VALUE
+At the sub-category level, Tables alone destroyed $17,725 in
+profit — making it the single most loss-making product line
+in the entire business. Bookcases lost an additional $3,472.
+Both sit within the already weak Furniture category. These
+two sub-categories are not just underperforming — they are
+actively subsidised by profitable product lines.
+
+INSIGHT 4 — DISCOUNTING IS THE BIGGEST PROFITABILITY THREAT
+This is the most critical finding in the analysis.
+Orders with zero discount achieve an average profit margin
+of 34.0%. As discounts increase, margins collapse:
+  - 1-10%  discount : 15.6% margin
+  - 11-20% discount : 17.5% margin
+  - 21-30% discount : -11.5% margin  (loss-making)
+  - 30%+   discount : -91.5% margin  (severe losses)
+Most alarmingly, 1,166 orders — nearly 12% of all
+transactions — were given discounts above 30%, pushing them
+into deeply loss-making territory. The business is
+essentially paying customers to take its products.
+
+INSIGHT 5 — REGIONAL PERFORMANCE GAP
+The West region leads profitability with a 14.9% margin and
+$108,418 in profit, closely followed by the East at 13.5%.
+The Central region is a significant underperformer —
+generating $501,239 in revenue but only $39,706 in profit,
+a margin of just 7.9%. This suggests either a pricing
+problem, higher discounting, or unfavourable product mix
+in the Central region.
+
+INSIGHT 6 — HOME OFFICE IS THE MOST PROFITABLE SEGMENT
+Despite being the smallest segment by revenue ($429,653),
+Home Office customers deliver the highest profit margin at
+14.0%, compared to Corporate at 13.0% and Consumer at 11.5%.
+Consumer is the largest segment by revenue but the least
+efficient in terms of margin — suggesting over-discounting
+or a less premium product mix sold to this segment.
+
+INSIGHT 7 — REVENUE AND PROFIT ARE DECOUPLED
+The most dangerous signal in this dataset is the gap between
+revenue and profit across categories and regions. High
+revenue does not equal high profit. Furniture proves this —
+$742K in revenue, 2.5% margin. This decoupling suggests the
+business is optimising for top-line growth at the expense
+of bottom-line health, a strategically unsustainable path.

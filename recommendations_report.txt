@@ -1,0 +1,185 @@
+
+╔══════════════════════════════════════════════════════════════╗
+║         STRATEGIC RECOMMENDATIONS REPORT                    ║
+║         E-commerce Profitability Optimization               ║
+╚══════════════════════════════════════════════════════════════╝
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RECOMMENDATION 1 — IMPLEMENT A HARD DISCOUNT CAP OF 20%
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Linked to Insight 4
+
+Problem:
+1,166 orders (12% of all transactions) were discounted
+above 30%, generating an average margin of -91.5%.
+These orders are not driving loyalty or volume — they
+are simply destroying value.
+
+Recommendation:
+Introduce a company-wide discount ceiling of 20% across
+all product categories. Any discount above this threshold
+must require CFO-level approval with documented business
+justification. Internal data shows that orders with
+discounts between 11-20% still achieve a healthy 17.5%
+margin — meaning the business can remain competitive
+without breaching profitability.
+
+Expected Impact:
+If the 1,166 orders currently at 30%+ discount were
+capped at 20%, and assuming even a conservative margin
+recovery to 10%, this single policy change could recover
+an estimated $50,000-$80,000 in annual profit.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RECOMMENDATION 2 — STRATEGIC REVIEW OF FURNITURE CATEGORY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Linked to Insights 2 and 3
+
+Problem:
+Furniture generates $742,000 in revenue but only $18,451
+in profit — a 2.5% margin that barely justifies the
+operational cost of carrying, storing, and shipping large
+items. Tables alone lost $17,725. The category is being
+cross-subsidised by Technology and Office Supplies.
+
+Recommendation:
+Conduct a three-part strategic review of Furniture:
+
+  STEP 1 — Discontinue or renegotiate Tables and Bookcases.
+  These two sub-categories are structurally loss-making.
+  Either renegotiate supplier costs, raise prices by
+  15-20%, or phase them out of the catalogue entirely.
+
+  STEP 2 — Eliminate all discounts on Furniture products.
+  Given the already razor-thin 2.5% category margin, any
+  discount pushes Furniture orders into loss territory.
+  Furniture should be a zero-discount category.
+
+  STEP 3 — Redirect marketing investment toward Technology
+  and Office Supplies, which deliver 17%+ margins and
+  far better return on sales effort.
+
+Expected Impact:
+Eliminating Tables and Bookcases losses alone recovers
+$21,197 in annual profit. Redirecting just 10% of
+Furniture marketing budget to Technology could generate
+significantly higher returns per dollar spent.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RECOMMENDATION 3 — PRIORITISE HOME OFFICE SEGMENT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Linked to Insight 6
+
+Problem:
+Home Office is the smallest segment by revenue but the
+most efficient, delivering a 14.0% margin versus 11.5%
+for Consumer. The Consumer segment — despite generating
+the most revenue — is the least profitable, suggesting
+it is being over-discounted or sold a lower-margin
+product mix.
+
+Recommendation:
+  STEP 1 — Increase targeted marketing investment in the
+  Home Office segment. These customers buy at higher
+  margins and represent an underleveraged growth
+  opportunity.
+
+  STEP 2 — Audit discount approvals for Consumer segment
+  orders. The margin gap between Consumer (11.5%) and
+  Home Office (14.0%) is likely driven by more aggressive
+  discounting to Consumer customers. Tighten discount
+  controls specifically for this segment.
+
+  STEP 3 — Develop a Home Office loyalty programme to
+  increase purchase frequency among this high-margin
+  customer group. Retaining one high-margin Home Office
+  customer is worth more than acquiring three low-margin
+  Consumer customers.
+
+Expected Impact:
+A 5% shift in revenue mix from Consumer to Home Office
+segment — without any other changes — would improve
+overall margin by an estimated 0.3-0.5 percentage points,
+worth approximately $7,000-$11,000 in additional profit.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RECOMMENDATION 4 — CENTRAL REGION INTERVENTION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Linked to Insight 5
+
+Problem:
+The Central region generates $501,239 in revenue but
+only a 7.9% profit margin — nearly half the West
+region's 14.9%. This gap cannot be explained by volume
+alone. It points to structural issues: either higher
+discounting rates, an unfavourable product mix, or
+elevated operational costs in this region.
+
+Recommendation:
+  STEP 1 — Conduct a Central region discount audit.
+  Identify whether sales teams in Central are approving
+  higher discounts to win deals and compare average
+  discount rates across all four regions.
+
+  STEP 2 — Analyse product mix in Central. If Central
+  customers are buying disproportionately more Furniture
+  and fewer Technology products, a targeted promotional
+  push for high-margin categories could shift the mix.
+
+  STEP 3 — Review shipping and logistics costs for
+  Central region orders. Higher fulfilment costs in
+  certain geographies can silently compress margins
+  without appearing in the discount data.
+
+Expected Impact:
+Closing half the margin gap between Central (7.9%) and
+the company average (12.5%) would generate an additional
+$23,000-$25,000 in profit from the Central region alone.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+RECOMMENDATION 5 — DOUBLE DOWN ON TECHNOLOGY
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Linked to Insights 2 and 7
+
+Problem:
+Technology is the highest revenue category at $836,154
+and delivers a 17.4% margin — the best in the business.
+Yet it receives no differential strategic attention
+relative to Furniture, which underperforms dramatically.
+
+Recommendation:
+  STEP 1 — Increase Technology SKU depth. Expanding the
+  range of Technology products gives high-margin items
+  more shelf space and drives revenue without the
+  operational burden of Furniture.
+
+  STEP 2 — Bundle Technology products with Office
+  Supplies — the second strongest margin category at
+  17.0%. Cross-category bundles increase average order
+  value while maintaining healthy margins.
+
+  STEP 3 — Protect Technology margins by enforcing
+  strict discount limits. Technology's strong margin
+  gives room for occasional promotional pricing — but
+  discounts above 15% should require explicit approval
+  to preserve the category's profitability advantage.
+
+Expected Impact:
+A 10% increase in Technology revenue — achievable
+through expanded range and bundling — would generate
+approximately $14,500 in incremental profit at current
+margins, with no change to cost structure required.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+EXECUTIVE SUMMARY — PRIORITY ACTION MATRIX
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+  Priority | Recommendation              | Est. Profit Impact
+  ---------|-----------------------------|-----------------
+  HIGH     | Implement 20% discount cap  | $50,000 - $80,000
+  HIGH     | Exit Tables & Bookcases     | $21,197
+  MEDIUM   | Central region intervention | $23,000 - $25,000
+  MEDIUM   | Prioritise Home Office      | $7,000 - $11,000
+  MEDIUM   | Double down on Technology   | $14,500+
+  ---------|-----------------------------|-----------------
+  TOTAL    | Combined potential recovery | $115,000 - $152,000
