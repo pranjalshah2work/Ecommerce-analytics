@@ -19,6 +19,22 @@ business recommendations.
 
 ---
 
+## 📊 Executive Dashboard
+
+The interactive Power BI dashboard provides an executive-level overview of sales performance, profitability, regional trends, and customer segmentation. It is designed to help business stakeholders quickly identify performance drivers and make data-informed decisions.
+
+### Executive Overview
+![Executive Overview](Dashboard/1.%20Executive%20Overview.png)
+
+### Profitability Analysis
+![Profitability Analysis](Dashboard/2.%20Profitability%20Analysis.png)
+
+### Regional Performance
+![Regional Performance](Dashboard/3.%20Regional%20Performance.png)
+
+### Customer Insights
+![Customer Insights](Dashboard/4.%20Customer%20Insights.png)
+
 ## Key Business Findings
 
 ### 1. Discounting is the Biggest Profitability Threat
@@ -85,39 +101,33 @@ potentially recover between **$115,000 and $152,000** in annual profit by:
 The project demonstrates how data-driven decision making can translate
 analytical findings into measurable business outcomes.
 
-## Project Structure
+## 📂 Project Structure
 
+```text
 ecommerce-analytics/
-
-├── notebooks/
-
-│   ├── 01_data_cleaning.ipynb
-
-│   ├── 02_eda.ipynb
-
-│   └── 03_insights.ipynb
-
-├── visuals/
-
-│   ├── 01_sales_profit_trend.png
-
-│   ├── 02_category_performance.png
-
-│   ├── 03_subcategory_profit.png
-
-│   ├── 04_discount_profit.png
-
-│   ├── 05_regional_performance.png
-
-│   └── 06_segment_analysis.png
-
+│
+├── Dashboard/
+│   ├── 1. Executive Overview.png
+│   ├── 2. Profitability Analysis.png
+│   ├── 3. Regional Performance.png
+│   ├── 4. Customer Insights.png
+│
+├── 01_data_cleaning.ipynb
+├── 02_eda.ipynb
+├── 03_insights.ipynb
+│
+├── 01_sales_profit_trend.png
+├── 02_category_performance.png
+├── 03_subcategory_profit.png
+├── 04_discount_profit.png
+├── 05_regional_performance.png
+├── 06_segment_analysis.png
+│
 ├── ecommerce_dashboard.pbix
-
 ├── insights_report.txt
-
-└── recommendations_report.txt
-
----
+├── recommendations_report.txt
+└── README.md
+```
 
 ## Methodology
 
@@ -127,6 +137,19 @@ ecommerce-analytics/
 4. **Dashboard** — Built 4-page executive Power BI dashboard for non-technical stakeholders
 
 ---
+
+## 🎯 Skills Demonstrated
+
+- Business Analytics
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Feature Engineering
+- Profitability Analysis
+- Customer Segmentation
+- Business Intelligence Dashboard Development
+- Executive Reporting
+- Strategic Recommendation Development
+- Python (Pandas, Matplotlib, Seaborn)
+- Power BI
 
 ## Tools & Technologies
 
