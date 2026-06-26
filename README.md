@@ -72,6 +72,18 @@ business recommendations.
 | **TOTAL** | **Combined potential** | **$115,000–$152,000** |
 
 ---
+## Business Impact
+
+The analysis identifies multiple operational improvements that could
+potentially recover between **$115,000 and $152,000** in annual profit by:
+
+- Optimizing discount policies
+- Reducing losses in Furniture
+- Prioritizing profitable customer segments
+- Improving regional sales strategy
+
+The project demonstrates how data-driven decision making can translate
+analytical findings into measurable business outcomes.
 
 ## Project Structure
 
